@@ -1,1 +1,2 @@
-# paarth_mango_project
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
